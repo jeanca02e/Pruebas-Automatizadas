@@ -1,0 +1,22 @@
+C:\Users\Jean_K\source\repos\Selenium test\Selenium test\bin\Debug\net8.0\selenium-manager\linux\selenium-manager
+C:\Users\Jean_K\source\repos\Selenium test\Selenium test\bin\Debug\net8.0\selenium-manager\macos\selenium-manager
+C:\Users\Jean_K\source\repos\Selenium test\Selenium test\bin\Debug\net8.0\selenium-manager\windows\selenium-manager.exe
+C:\Users\Jean_K\source\repos\Selenium test\Selenium test\bin\Debug\net8.0\Selenium test.exe
+C:\Users\Jean_K\source\repos\Selenium test\Selenium test\bin\Debug\net8.0\Selenium test.deps.json
+C:\Users\Jean_K\source\repos\Selenium test\Selenium test\bin\Debug\net8.0\Selenium test.runtimeconfig.json
+C:\Users\Jean_K\source\repos\Selenium test\Selenium test\bin\Debug\net8.0\Selenium test.dll
+C:\Users\Jean_K\source\repos\Selenium test\Selenium test\bin\Debug\net8.0\Selenium test.pdb
+C:\Users\Jean_K\source\repos\Selenium test\Selenium test\bin\Debug\net8.0\SeleniumExtras.WaitHelpers.dll
+C:\Users\Jean_K\source\repos\Selenium test\Selenium test\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Jean_K\source\repos\Selenium test\Selenium test\bin\Debug\net8.0\WebDriver.dll
+C:\Users\Jean_K\source\repos\Selenium test\Selenium test\obj\Debug\net8.0\Selenium test.csproj.AssemblyReference.cache
+C:\Users\Jean_K\source\repos\Selenium test\Selenium test\obj\Debug\net8.0\Selenium test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jean_K\source\repos\Selenium test\Selenium test\obj\Debug\net8.0\Selenium test.AssemblyInfoInputs.cache
+C:\Users\Jean_K\source\repos\Selenium test\Selenium test\obj\Debug\net8.0\Selenium test.AssemblyInfo.cs
+C:\Users\Jean_K\source\repos\Selenium test\Selenium test\obj\Debug\net8.0\Selenium test.csproj.CoreCompileInputs.cache
+C:\Users\Jean_K\source\repos\Selenium test\Selenium test\obj\Debug\net8.0\Selenium.FA442545.Up2Date
+C:\Users\Jean_K\source\repos\Selenium test\Selenium test\obj\Debug\net8.0\Selenium test.dll
+C:\Users\Jean_K\source\repos\Selenium test\Selenium test\obj\Debug\net8.0\refint\Selenium test.dll
+C:\Users\Jean_K\source\repos\Selenium test\Selenium test\obj\Debug\net8.0\Selenium test.pdb
+C:\Users\Jean_K\source\repos\Selenium test\Selenium test\obj\Debug\net8.0\Selenium test.genruntimeconfig.cache
+C:\Users\Jean_K\source\repos\Selenium test\Selenium test\obj\Debug\net8.0\ref\Selenium test.dll
